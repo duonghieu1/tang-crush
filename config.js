@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ nha :3',
     reply: 'Tại vì cậu đẹp trai ó <33333333',
     mess: 'Cậu làm bạn gái tớ nhaa ',
-    messDesc: 'Nhắn cho tớ nhé.',
+   
     btnAccept: 'Okiiiii lun ❤',
     messLink: 'https://www.messenger.com/t/100026579676090/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
