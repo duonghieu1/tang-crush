@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Giáp ơi!!',
-    introDesc: `Cậu phải chọn thật lòng đó nhaaaaa ❤`,
+    introDesc: `Cậu phải chọn thật lòng đó nhaaaaa 💕`,
     btnIntro: 'CLICK <3333333',
     title: 'Phải chăng cậu đã yêu tớ ngay từ cái nhìn đầu tiên ❤ ',
     desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
