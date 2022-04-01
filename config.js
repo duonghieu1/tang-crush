@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Giáp ơi!!',
+    introTitle: 'Thư ơi!!',
     introDesc: `Cậu phải chọn thật lòng đó nhaaaaa ❤`,
     btnIntro: 'CLICK <3333333',
     title: 'Phải chăng cậu đã yêu tớ ngay từ cái nhìn đầu tiên ❤',
@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Tại vì cậu đẹp trai ó <33333333',
     mess: 'Cậu làm bạn gái tớ nhaa ',
    
-    btnAccept: 'Okiiiii lun ❤',
+    btnAccept: 'Đồng ý nà ❤',
     messLink: 'https://www.messenger.com/t/100026579676090/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
